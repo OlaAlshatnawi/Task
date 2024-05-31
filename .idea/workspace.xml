@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01790b07-b1eb-4980-bfad-08fb13b6951f" name="Changes" comment="version">
-      <change afterPath="$PROJECT_DIR$/FX-Deals-main/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FX-Deals-main/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FX-Deals-main/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FX-Deals-main/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FX-Deals-main/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FX-Deals-main/compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FX-Deals-main/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FX-Deals-main/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FX-Deals-main/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FX-Deals-main/src/main/java/com/example/FxDeal/Controller/FXDealController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FX-Deals-main/src/main/java/com/example/FxDeal/FxDealApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FX-Deals-main/src/main/java/com/example/FxDeal/Service/FXDealService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FX-Deals-main/src/main/java/com/example/FxDeal/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FX-Deals-main/src/main/java/com/example/FxDeal/exception/ImportDealException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FX-Deals-main/src/main/java/com/example/FxDeal/model/dto/FXDealDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FX-Deals-main/src/main/java/com/example/FxDeal/model/entity/FXDeal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FX-Deals-main/src/main/java/com/example/FxDeal/repository/FXDealRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FX-Deals-main/src/main/resources/application-doc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FX-Deals-main/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FX-Deals-main/src/main/resources/static/webpage.HTML" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FX-Deals-main/src/test/java/com/example/FxDeal/FXDealApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="01790b07-b1eb-4980-bfad-08fb13b6951f" name="Changes" comment="version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717153352240</updated>
-      <workItem from="1717153355015" duration="410000" />
+      <workItem from="1717153355015" duration="839000" />
     </task>
     <servers />
   </component>
